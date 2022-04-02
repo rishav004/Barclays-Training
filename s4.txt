@@ -1,0 +1,1 @@
+Hello, this is file s4 on child branch.
